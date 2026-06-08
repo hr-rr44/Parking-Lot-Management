@@ -1,5 +1,7 @@
 Hrithika Ravishankar
 
+Presentation Link: https://docs.google.com/presentation/d/1vdO_Em6Zi-BkZFG_eZ1Puv_7we3l9iXrkZzPray4opM/edit?usp=sharing
+
 Overview: 
 This is a Parking Lot Management Application, developed in Java, using the command line. The user enters the total number of parking spots, and the system will divide them into three categories: Small spots, Large spots, and Oversized spots. The application allows users to park vehicles, remove vehicles, view the current parking lot status, and view parking lot statistics.
 
